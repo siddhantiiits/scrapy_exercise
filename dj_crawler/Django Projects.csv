@@ -1,0 +1,480 @@
+django-ssr,0.0.1,"
+  Jul 2, 2018
+"
+django-cast,0.2.0,"
+  Dec 18, 2022
+"
+django-cricket-statistics,0.0.1,"
+  Sep 17, 2020
+"
+nuntius,2.2.4,"
+  Jun 23, 2021
+"
+django-polyfield,0.1.0,"
+  May 21, 2017
+"
+django-uwsgi-taskmanager,2.2.14,"
+  Oct 6, 2021
+"
+django-pg-zero-downtime-migrations,0.12,"
+  Nov 2, 2022
+"
+django-bank-requisites,0.1.0,"
+  Jul 29, 2022
+"
+pyhermes,0.5.0,"
+  Sep 5, 2022
+"
+django-redis,5.2.0,"
+  Dec 22, 2021
+"
+django-student-oauth,0.4,"
+  Feb 4, 2017
+"
+django-mailtrail,0.3,"
+  Feb 20, 2017
+"
+djem,0.8.0,"
+  Dec 12, 2022
+"
+django-rest-utils-mosoti,0.1,"
+  Feb 6, 2017
+"
+django-address,0.2.8,"
+  May 6, 2022
+"
+django-celery-growthmonitor,1.1.0,"
+  Mar 10, 2022
+"
+wagtail-headless-preview,0.5.0,"
+  Nov 27, 2022
+"
+edc-protocol-violation,0.1.17,"
+  Sep 25, 2022
+"
+django-pickling,1.0,"
+  May 25, 2017
+"
+django-bugout,0.10,"
+  Jan 11, 2018
+"
+djangocms-classic-admin-style,1.0.2,"
+  Sep 6, 2016
+"
+django-thaad,1.0.5,"
+  May 25, 2020
+"
+django-gpxpy,0.0.2,"
+  Sep 14, 2016
+"
+django-fancy-cronfield,0.2.0,"
+  Dec 16, 2015
+"
+openimis-be-core,1.5.0,"
+  Nov 10, 2022
+"
+django-mobile-detect,0.1,"
+  Dec 23, 2021
+"
+django-ditto,2.3.0,"
+  Nov 28, 2022
+"
+django-s3-sqlite,0.0.5,"
+  Jun 24, 2022
+"
+byro,0.0.2,"
+  Dec 2, 2021
+"
+django-quill-editor,0.1.40,"
+  Feb 8, 2022
+"
+django-localized-recurrence,4.0.0,"
+  Dec 29, 2020
+"
+django-classic-theme,1.0.2,"
+  Jan 13, 2016
+"
+django-markdown-view,0.0.5,"
+  Mar 31, 2022
+"
+picatron-tenant,0.1.3,"
+  Aug 22, 2022
+"
+django-cachetable,0.0.2,"
+  Aug 31, 2018
+"
+django-push-notifications,3.0.0,"
+  Feb 17, 2022
+"
+djangae,1.1.0,"
+  Oct 24, 2022
+"
+django-icomoon,1.4.1,"
+  Dec 22, 2021
+"
+django-oscar-stores,3.0.2,"
+  Sep 16, 2021
+"
+django-flag-app,1.3.0,"
+  Oct 14, 2021
+"
+django-pays,0.1.0,"
+  May 13, 2019
+"
+django-sage-cache,0.1.1,"
+  Jul 27, 2021
+"
+django-todo,2.5.0,"
+  Nov 3, 2022
+"
+django-subcommand2,0.1.1,"
+  Jan 26, 2016
+"
+myks-gallery,0.9.1,"
+  Dec 4, 2022
+"
+django-admin-search-builder,0.2.2,"
+  May 29, 2020
+"
+django-pickled-model,1.0.3,"
+  Sep 14, 2022
+"
+django-graphql-persist,0.1.1,"
+  Oct 3, 2018
+"
+django-large-image,0.8.1,"
+  Aug 4, 2022
+"
+django-model-revisioning,0.0.1a3,"
+  Oct 18, 2019
+"
+django-ajaxview,1.0.6,"
+  Jan 13, 2022
+"
+django-blog-app,0.1,"
+  Sep 15, 2016
+"
+django-image-optimizer-way2enjoy,1.0.0,"
+  Apr 7, 2019
+"
+django-codenerix-email,4.0.1,"
+  May 18, 2022
+"
+django-djet2,1.0.14,"
+  Oct 6, 2022
+"
+wagtail-modeladmin-sortable,0.0.2,"
+  Aug 31, 2021
+"
+cval-django-relativedelta,1.1.2,"
+  Jan 18, 2022
+"
+dj-iamport,0.0.1,"
+  Jul 14, 2022
+"
+django-contact-form-recaptcha,1.6.1,"
+  Dec 9, 2018
+"
+natural-keys,2.0.0,"
+  Aug 24, 2021
+"
+django-img-cache,0.2,"
+  Sep 9, 2018
+"
+django-cpf-cnpj,1.0.0,"
+  Jun 14, 2021
+"
+dj-nepali-address,0.2.2,"
+  Jan 17, 2022
+"
+nautobot-ddns,1.0.4,"
+  Nov 18, 2021
+"
+drf-multitokenauth,2.0.0,"
+  Oct 14, 2022
+"
+drf-api-history,1.1.4,"
+  Sep 9, 2021
+"
+django-shells,0.1.0,"
+  Nov 26, 2015
+"
+django-crispy-forms,1.14.0,"
+  Jan 25, 2022
+"
+django-adobesign,0.12,"
+  Dec 5, 2022
+"
+django-allauth-sniperlinks,0.3,"
+  Dec 6, 2022
+"
+my-app,0.1.0,"
+  Jan 10, 2020
+"
+django-model-history-log,0.2.1,"
+  Jul 13, 2022
+"
+edx-submissions,3.5.4,"
+  Aug 18, 2022
+"
+mb-drf-article,0.1.2,"
+  Jun 18, 2019
+"
+django-field-object-permissions,0.1.1,"
+  Apr 10, 2017
+"
+django-google-mailer,0.3.1,"
+  Nov 10, 2020
+"
+django-admin-api,0.0.8,"
+  Aug 20, 2021
+"
+dj-bgfiles,0.6.0,"
+  Feb 5, 2018
+"
+drf-guard,0.3.0,"
+  Aug 1, 2020
+"
+aa-buybacks2,0.2.1,"
+  Nov 21, 2021
+"
+django-cancan,0.4.2,"
+  Mar 3, 2021
+"
+djangocms-opensystem,1.0.0,"
+  Jun 17, 2020
+"
+django-login,1.0,"
+  May 22, 2017
+"
+djira,0.2.1,"
+  Aug 28, 2018
+"
+django-google-maps,0.13.0,"
+  Mar 22, 2022
+"
+dj-spam,0.2.0,"
+  Jul 30, 2015
+"
+django-getorcreateplus,0.1.0,"
+  Nov 22, 2016
+"
+django-audittrail,0.2.1,"
+  May 31, 2020
+"
+wagtailmodelchooser,0.3.0,"
+  Nov 19, 2018
+"
+django-galaxy,0.0.2,"
+  Jul 30, 2019
+"
+bambuinformasaun,0.2,"
+  Oct 21, 2022
+"
+django-cruds-mixins,2.0.1,"
+  May 10, 2022
+"
+djcacheutils,3.0.0,"
+  Jul 7, 2017
+"
+directory-proxy,0.1.0,"
+  Jan 3, 2019
+"
+django-choice-enumfields,1.1.2,"
+  Feb 24, 2022
+"
+django-form-builder,0.16.7,"
+  Sep 7, 2021
+"
+dj-git,0.3,"
+  Jun 26, 2016
+"
+django-latest-tweets,0.4.7,"
+  Oct 24, 2022
+"
+django-recaptcha429,2.1.0,"
+  Dec 26, 2021
+"
+django-fsforms,6.0.0,"
+  Sep 23, 2019
+"
+django-mogi,0.0.2,"
+  Jul 30, 2019
+"
+django-push-notifications-kr,1.0.0,"
+  Nov 4, 2021
+"
+wagtail-donate,1.6.0,"
+  Dec 1, 2022
+"
+django-tgb-basics,0.2.14,"
+  Jul 30, 2020
+"
+django-advanced-template-tags,0.1,"
+  Nov 7, 2016
+"
+django-admin-colors,0.2.0,"
+  Mar 23, 2018
+"
+django-private-chat,0.3.0,"
+  May 3, 2020
+"
+openimis-be-calcrule-fees,1.4.1,"
+  Nov 11, 2022
+"
+django-front-data,1.2.0,"
+  Nov 6, 2021
+"
+django-threadedcomments,2.0,"
+  Nov 17, 2021
+"
+django-toolset,0.1.5,"
+  Jun 23, 2016
+"
+wagtail-schema.org,4.0.0,"
+  Oct 25, 2022
+"
+cool-django-auth-ldap,1.1.3,"
+  Jan 2, 2021
+"
+springy,5.0.1,"
+  Nov 9, 2017
+"
+django-fortunecookie,0.3.0,"
+  Jun 15, 2017
+"
+django-sage-session,0.1.0,"
+  Jul 29, 2021
+"
+django-pollinos,0.1,"
+  Mar 20, 2022
+"
+drf-writable-nested,0.7.0,"
+  Aug 11, 2022
+"
+wagtail-audit-trail,1.3.0,"
+  Sep 25, 2018
+"
+django-uuid-primary-key,1.1.0,"
+  Dec 5, 2017
+"
+edc-export,0.3.24,"
+  Oct 26, 2022
+"
+django-rgd-3d,0.3.11,"
+  Jun 21, 2022
+"
+dwll,1.0.2,"
+  Sep 25, 2022
+"
+django-event-cal,0.2,"
+  Apr 25, 2022
+"
+dsm-django-socialauth,1.0.6,"
+  Nov 14, 2022
+"
+django-wagtail-customforms,0.2.12,"
+  Jan 16, 2020
+"
+django-hybrid-attributes,0.1.0,"
+  Jun 5, 2020
+"
+lionclaw,1.0.6,"
+  Jun 17, 2020
+"
+django-simple-audit-gizmag,0.2.2,"
+  Jul 13, 2016
+"
+django-pwa,1.1.0,"
+  Dec 20, 2022
+"
+dbsettings,0.9.6,"
+  Feb 12, 2021
+"
+django-rstblog,0.1.2,"
+  Oct 26, 2018
+"
+dj-n3-templateplugins,0.3.1,"
+  Sep 22, 2017
+"
+django-shopping-cart,0.1,"
+  Apr 1, 2020
+"
+djangorestframework-jsonmask,0.1.1,"
+  Nov 29, 2018
+"
+wagtail-nesting-box,0.2.1,"
+  Sep 28, 2016
+"
+aa-bulletin-board,1.7.3,"
+  Sep 18, 2022
+"
+halolib,0.14.10,"
+  Feb 1, 2019
+"
+django-simple-account,0.0.18,"
+  May 22, 2020
+"
+django-jinja,2.10.2,"
+  May 13, 2022
+"
+djangocms-column,2.0.0,"
+  Apr 11, 2022
+"
+djangocms-zb-organizations,2.1.1,"
+  Dec 29, 2022
+"
+django-caretaker,0.5.0,"
+  Jun 24, 2022
+"
+django-admin-sync,0.6.0,"
+  Dec 7, 2022
+"
+django-guardian,2.4.0,"
+  May 23, 2021
+"
+django-cml,0.4.0,"
+  Oct 16, 2019
+"
+django_replicated,2.7,"
+  Apr 10, 2020
+"
+isdc-dashboard,0.1.dev0,"
+  Nov 28, 2018
+"
+django-groot,0.1.1,"
+  Mar 30, 2017
+"
+django-tenant-schemas-mosi,0.2,"
+  Dec 3, 2020
+"
+wagtail-wordpress-import,0.3.0,"
+  Dec 22, 2022
+"
+drf-extra,0.0.1,"
+  Jun 25, 2019
+"
+django-rest-action-permissions,2.0.0,"
+  Mar 31, 2019
+"
+django-enumfields,2.1.1,"
+  Feb 23, 2021
+"
+django-synchro,0.7,"
+  Nov 12, 2017
+"
+cloudinary,1.30.0,"
+  Sep 20, 2022
+"
+aa-standingssync,1.5.0,"
+  Aug 8, 2022
+"
+django-courier,0.14.0,"
+  Apr 27, 2018
+"
+django-mgsub,0.2.0,"
+  Jan 9, 2019
+"
+django-cognito-redux,1.4.5,"
+  Jun 4, 2021
+"
